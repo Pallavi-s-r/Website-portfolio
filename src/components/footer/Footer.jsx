@@ -16,7 +16,7 @@ const Footer = () => {
     <li><a href='#contact'>Contact</a></li>
       </ul>
       <div className="footer__socials">
-      <a href="https://www.linkedin.com/in/pallavi-singh/6040811b3" target='blank'><BsLinkedin/></a>
+      <a href="www.linkedin.com/in/pallavisingh6040811b3" target='blank'><BsLinkedin/></a>
             <a href='https://github.com/Pallavi-s-r' target='blank'><BsGithub/></a>
       </div>
 

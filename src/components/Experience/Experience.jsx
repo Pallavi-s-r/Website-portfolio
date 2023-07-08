@@ -18,42 +18,42 @@ const Experience = () => {
               <FaHtml5 className='experience__dtails-icon'/>
               <div>
               <h4>HTML</h4>
-              <small className='text-light'>Experienced</small></div>
+</div>
             </article>
 
             <article className='experience__details'>
               <FaCss3 className='experience__dtails-icon'/>
               <div>
               <h4>CSS</h4>
-              <small className='text-light'>Experienced</small></div>
+</div>
             </article>
 
             <article className='experience__details'>
               <FaJs className='experience__dtails-icon'/>
               <div>
               <h4>Js</h4>
-              <small className='text-light'>Intermediate</small></div>
+          </div>
             </article>
 
             <article className='experience__details'>
               <FaReact className='experience__dtails-icon'/>
               <div>
               <h4>React Js</h4>
-              <small className='text-light'>Intermediate</small></div>
+          </div>
             </article>
 
             <article className='experience__details'>
               <MdAnimation className='experience__dtails-icon'/>
               <div>
               <h4>Animations</h4>
-              <small className='text-light'>Beginner</small></div>
+         </div>
             </article>
 
             <article className='experience__details'>
               <DiSass className='experience__dtails-icon'/>
               <div>
               <h4>Sass</h4>
-              <small className='text-light'>Beginner</small></div>
+         </div>
             </article>
           </div>
         </div>
@@ -65,36 +65,56 @@ const Experience = () => {
             <article className='experience__details'>
               < FaJava className='experience__dtails-icon'/>
               <div>
-              <h4>Java</h4>
-              <small className='text-light'>Intermediate</small></div>
+              <h4>JavaScript</h4>
+             </div>
             </article>
 
             <article className='experience__details'>
               <FaNodeJs className='experience__dtails-icon'/>
               <div>
               <h4>Node Js</h4>
-              <small className='text-light'>Intermediate</small></div>
+             </div>
             </article>
 
             <article className='experience__details'>
               <DiMongodb className='experience__dtails-icon'/>
               <div>
               <h4>MongoDB</h4>
-              <small className='text-light'>Intermediate</small></div>
+             </div>
             </article>
 
             <article className='experience__details'>
               <DiMysql className='experience__dtails-icon'/>
               <div>
               <h4>My Sql</h4>
-              <small className='text-light'>Experienced</small></div>
+</div>
             </article>
 
             <article className='experience__details'>
               <SiExpress className='experience__dtails-icon'/>
               <div>
               <h4>Express</h4>
-              <small className='text-light'>Intermediate</small></div>
+             </div>
+            </article>
+            <article className='experience__details'>
+              <SiExpress className='experience__dtails-icon'/>
+              <div>
+              <h4>AWS</h4>
+             </div>
+            </article>
+
+            <article className='experience__details'>
+              <SiExpress className='experience__dtails-icon'/>
+              <div>
+              <h4>Cloudinary</h4>
+             </div>
+            </article>
+
+                 <article className='experience__details'>
+              <SiExpress className='experience__dtails-icon'/>
+              <div>
+              <h4>Docker</h4>
+             </div>
             </article>
 
           </div>
