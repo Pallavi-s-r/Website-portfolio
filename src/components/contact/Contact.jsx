@@ -31,7 +31,7 @@ const Contact = () => {
         <BsLinkedin contact__option-icon/>
         <h4>LinkedIn</h4>
         <h5>Pallavi Singh</h5>
-        <a href='https://www.linkedin.com/in/pallavi-singh//6040811b3/' target="_blank" rel="noreferrer">Send a message</a>
+        <a href='www.linkedin.com/in/pallavisingh6040811b3' target="_blank" rel="noreferrer">Send a message</a>
         </article>
 
          {/* <article className="contact__option">
