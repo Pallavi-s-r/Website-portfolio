@@ -19,6 +19,7 @@ const Contact = () => {
     <section id='contact'><h5>Get in Touch  </h5>
     <h2>Contact Me</h2>
     <div className="container contact__container">
+      
       <div className="contact__options">
         <article className="contact__option">
         <GoMail className='contact__option-icon'/>
@@ -31,7 +32,7 @@ const Contact = () => {
         <BsLinkedin contact__option-icon/>
         <h4>LinkedIn</h4>
         <h5>Pallavi Singh</h5>
-        <a href='www.linkedin.com/in/pallavisingh6040811b3' target="_blank" rel="noreferrer">Send a message</a>
+        <a href='https://www.linkedin.com/in/pallavi-singh-6040811b3' target="_blank" rel="noreferrer">Send a message</a>
         </article>
 
          {/* <article className="contact__option">
