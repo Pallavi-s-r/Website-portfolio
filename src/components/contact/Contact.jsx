@@ -34,13 +34,6 @@ const Contact = () => {
         <h5>Pallavi Singh</h5>
         <a href='https://www.linkedin.com/in/pallavi-singh-6040811b3' target="_blank" rel="noreferrer">Send a message</a>
         </article>
-
-         {/* <article className="contact__option">
-        <FaWhatsapp contact__option-icon/>
-        <h4>WhatsApp or Call</h4>
-        <h5>+916393599838</h5>
-        <a href='https://api.whatsapp.com/send?phone+916393599838' target="_blank"  rel="noreferrer">Send a message</a>
-        </article> */}
       </div>
     </div>
 
