@@ -2,7 +2,7 @@ import React from 'react'
 import'./Portfolio.css'
 import IMG1 from '../../assets/todo.png'
 import IMG2 from '../../assets/weather.png'
-// import IMG3 from '../../assets/portfolio3.jpg'
+import IMG3 from '../../assets/IMG3.jpg'
 // import IMG4 from '../../assets/portfolio4.jpg'
 // import IMG5 from '../../assets/portfolio5.png'
 // import IMG6 from '../../assets/portfolio6.jpg'
@@ -12,23 +12,23 @@ const data =[
     id:1,
     Image:IMG1,
     title: ' Todo App',
-    github:'https://github.com',
+    github:'https://github.com/Pallavi-s-r',
     demo: 'https://todo-app-by-pallavi.netlify.app/'
   },
   {
     id:2,
     Image:IMG2,
     title: 'Weather Forecast',
-    github:'https://github.com',
+    github:'https://github.com/Pallavi-s-r',
     demo: 'https://todaysforecast.netlify.app/'
   },
-  // {
-  //   id:3,
-  //   Image:IMG3,
-  //   title: 'abcd',
-  //   github:'https://github.com',
-  //   demo: 'https://google.com'
-  // },
+  {
+    id:3,
+    Image:IMG3,
+    title: 'LifeSaversNetwork',
+    github:'https://github.com/Pallavi-s-r',
+    demo: 'https://bloodbank-wen-app.onrender.com'
+  },
   // {
   //   id:4,
   //   Image:IMG4,
