@@ -27,7 +27,7 @@ const data =[
     Image:IMG3,
     title: 'LifeSaversNetwork',
     github:'https://github.com/Pallavi-s-r',
-    demo: 'https://bloodbank-wen-app.onrender.com'
+    demo: 'https://blood-bank-project-cqmg.vercel.app/'
   },
   {
     id:4,
